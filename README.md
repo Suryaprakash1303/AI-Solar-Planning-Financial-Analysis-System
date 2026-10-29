@@ -7,6 +7,12 @@ An Enterprise-Grade, AI-Powered Solar Planning, Power Forecasting &amp; Financia
 [![Model Accuracy](https://img.shields.io/badge/Model%20R%C2%B2-95.4%25-brightgreen.svg)]()
 
 ---
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/6f61c629-d49a-436a-832e-f7aa5af699e2" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/58f4ab78-3230-4d8b-b8df-1e805f829d3f" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/67737a26-ca9c-4a06-b659-2f51de2ceac8" />
+
+
+
 
 ## ⚡ Key Highlights (v2.0 Performance & Design Upgrade)
 - **Zero-Delay Startup:** Pre-trained binary model (`solar_model.joblib`) loads in **< 5 milliseconds**, completely eliminating the startup loading delay and freezing issues on cloud platforms.
