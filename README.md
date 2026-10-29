@@ -1,4 +1,4 @@
-# AI-Solar-Planning-Financial-Analysis-System-v2.0
+# AI Solar Planning Financial Analysis System
 An Enterprise-Grade, AI-Powered Solar Planning, Power Forecasting &amp; Financial Simulation platform built with **Python, Streamlit, Scikit-Learn, Plotly, and Joblib**.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
